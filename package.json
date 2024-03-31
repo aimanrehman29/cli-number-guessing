@@ -2,7 +2,7 @@
   "name": "rehman-cli-number-guessing",
   "version": "1.0.0",
   "description": "this is cli number guessing game",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
